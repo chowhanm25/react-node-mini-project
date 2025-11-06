@@ -1,6 +1,6 @@
 
 
-# react-node-mini-project
+# Daily-Scheduler
 
 > A small full-stack demo using React (client) and Node + Express (server).
 > Includes a simple REST API, basic authentication pattern, and sample CRUD operations — a compact template you can extend for learning or interviews.
